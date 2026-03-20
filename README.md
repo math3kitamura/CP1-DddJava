@@ -27,5 +27,7 @@ Projeto em Java que simula o funcionamento básico de uma autoescola, utilizando
 - Git/GitHub
 
 ## Como executar
-1. Abrir o projeto no IntelliJ
-2. Executar a classe `Main`
+1. Clone o repositório
+2. Abra o projeto no seu editor de códigos
+3. Execute a classe Main
+4. Visualize os resultados no console
